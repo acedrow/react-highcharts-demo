@@ -1,2 +1,2 @@
 # react-highcharts-demo
-Created with CodeSandbox
+Coding challenging featuring typescript, react, and dynamuically updated highcharts tables. Written in codingsandbox so may or may not work properly pulled to local.
